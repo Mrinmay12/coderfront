@@ -21,6 +21,7 @@
     padding: 8px 16px;
     border-radius: 4px;
     cursor: pointer;
+    
   }
   
   .text-content {
@@ -28,6 +29,7 @@
     transition: opacity 0.3s ease;
     padding-top: 25px;
     word-wrap: break-word;
+      white-space:pre-line;
   }
   
   .text-content.code-visible {
